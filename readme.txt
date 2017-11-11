@@ -1,3 +1,2 @@
-Git is a version control system.
-Git is free software.
-
+Hey, guy~
+Please click file "RadioStation" to see the appliction!
